@@ -1,0 +1,77 @@
+{
+  "employees": [
+    {
+      "id": 1002,
+      "name": "Jim Halpert",
+      "salary": 220000,
+      "designation": "SDE",
+      "gender": "Male"
+    },
+    {
+      "name": "Dwight",
+      "salary": "100000000",
+      "designation": "QA",
+      "gender": "Male",
+      "id": 1003
+    },
+    {
+      "name": "Song-Hua",
+      "salary": "100000000",
+      "designation": "Gamer",
+      "gender": "Male",
+      "id": 1004
+    }
+  ],
+  "departments": [
+    {
+      "id": 50001,
+      "name": "Sales",
+      "location": "Chennai"
+    },
+    {
+      "id": 50002,
+      "name": "Development",
+      "location": "Mumbai"
+    },
+    {
+      "id": 50001,
+      "name": "Testing",
+      "location": "Bangalore"
+    },
+    {
+      "name": "Data Analysis",
+      "location": "Boston",
+      "id": 50003
+    },
+    {
+      "name": "Ad",
+      "location": "Bay Area",
+      "id": 50004
+    },
+    {
+      "name": "SEO",
+      "location": "Mountain View",
+      "id": 50005
+    }
+  ],
+  "users": [
+    {
+      "id": 90001,
+      "name": "Rahul",
+      "username": "rahul_sk",
+      "password": "#Ks23220305"
+    },
+    {
+      "id": 90002,
+      "name": "Rohan",
+      "username": "beth",
+      "password": "beth2000"
+    },
+    {
+      "id": 90003,
+      "name": "aaroh",
+      "username": "dasav",
+      "password": "savage"
+    }
+  ]
+}
